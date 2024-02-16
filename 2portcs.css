@@ -38,7 +38,7 @@ transition: .3s;
     color: #facc16;
 }
 .home{
-    background-image: url('/CLASSROOM/Pic3.PNG');
+    background-image: url('./CLASSROOM/Pic3.PNG');
     background-size: cover;
     color: #ededed;
     display: flex;
